@@ -1,0 +1,12 @@
+{
+  "name": "Remix Remix Local Trades India",
+  "description": "An AI-powered emergency service and job platform for skilled workers in India, featuring voice-first navigation, SOS mode, Aadhaar verification, and comprehensive Android app features with OTP security.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
